@@ -36,4 +36,8 @@ Using a database of geographical data: create a choropleth path of the United St
 <b>Assignment 6:</b>
 <br>
 Create a dendogram of the trajectories of 5 visitors.
-
+<br>
+<br>
+<b>Course Project:</b>
+<br>
+Look at data provided by the United States Census Bureau to compare and analyze which key variables influenced salary levels. Then create data visualizations to display the findings.
